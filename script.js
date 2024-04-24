@@ -1,3 +1,5 @@
+let username = prompt("Enter your name:");
+document.getElementById('welcome').textContent = "Welcome, " + username + "!";
 function updateClock() {
     let now = new Date();
     let dname = now.getDay();

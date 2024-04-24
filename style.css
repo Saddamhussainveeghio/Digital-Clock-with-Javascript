@@ -24,6 +24,9 @@ body{
     background: #2e94e3;
     box-shadow: 0 0 30px #2e94e3;
 }
+#welcome{
+    font-size: 40px;
+}
 .date{
     font-size: 20px;
     font-weight: 600;
